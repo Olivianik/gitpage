@@ -72,7 +72,7 @@
         </a>
     </p>
     <p>
-        <h2 align="center"><a href="https://github.com/NinjaDev0333?tab=repositories">Please give star to these projects</a></h2>
+        <h2 align="center"><a href="https://github.com/NinjaDev0333?tab=repositories">Please give star to these projects(It need only 2 clicks)</a></h2>
         <div align="center">0
             <a href="https://github.com/NinjaDev0333/Vue-cart">Vue-cart</a>&nbsp;&nbsp;
             <a href="https://github.com/NinjaDev0333/smart-app">smart-app</a>&nbsp;&nbsp;
