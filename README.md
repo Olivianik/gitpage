@@ -5,7 +5,7 @@
         <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
     </div>
     <p>
-    <h3 align="left">As a hardworking developer with 10 years of experience, I have a knack for creating elegant solutions
+    <h3 align="left">As a hardworking developer with 7 years of experience, I have a knack for creating elegant solutions
         in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation
         web apps for local charities.</h3>
     <img align="right" width="500"
@@ -19,7 +19,7 @@
         each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
     </p> 
     <div align="center" width='100%'>
-        <h1><a align='center' width='100%' href="https://charles0830.github.io/">Please Click Here!</a></h1>
+        <h1><a align='center' width='100%' href="https://ninja-dev0333.web.app/">Please Click Here!</a></h1>
     </div>
     ## ⚡ Technologies
     <p align="center">
@@ -72,18 +72,13 @@
         </a>
     </p>
     <p>
-        <h2 align="center"><a href="https://github.com/charles0830?tab=repositories">Please give star to these projects(It need only 2 clicks)</a></h2>
-        <div align="center">
-            <a href="https://github.com/charles0830/charles0830.github.io">Personal Website</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/A-Social-Media">A Social Media</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/charles0830">GitHub Profile</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>&nbsp;&nbsp;
-            <a href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>&nbsp;&nbsp;
+        <h2 align="center"><a href="https://github.com/NinjaDev0333?tab=repositories">Please give star to these projects(It need only 2 clicks)</a></h2>
+        <div align="center">0
+            <a href="https://github.com/NinjaDev0333/Vue-cart">Vue-cart</a>&nbsp;&nbsp;
+            <a href="https://github.com/NinjaDev0333/smart-app">smart-app</a>&nbsp;&nbsp;
+            <a href="https://github.com/NinjaDev0333/E-Commerce-Site">E-Commerce-Site</a>&nbsp;&nbsp;
+            <a href="https://github.com/NinjaDev0333/A-Social-Media">A Social Media</a>&nbsp;&nbsp;
+            <a href="https://github.com/NinjaDev0333/URL-Shortner">URL Shortner</a>&nbsp;&nbsp;
         </div>
     </p>
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
